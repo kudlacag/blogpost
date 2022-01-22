@@ -1,6 +1,6 @@
-@import 'mobileHeader.css';
-@import 'mobileSection.css';
-@import 'mobileFooter.css';
+@import "mobileHeader.css";
+@import "mobileSection.css";
+@import "mobileFooter.css";
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -16,7 +16,4 @@ body {
   .aside {
     grid-area: sd;
   }
-
-
-  
 }

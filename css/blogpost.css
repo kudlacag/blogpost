@@ -4,3 +4,12 @@
   margin-top: 20px;
   font-size: 14px;
 }
+
+.btn:hover {
+  background-color: #010e66;
+}
+
+.btn-submit {
+  width: 25%;
+  margin-left: 0;
+}

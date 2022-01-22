@@ -27,6 +27,11 @@
   margin-left: 37px;
 }
 
+.btn-submit {
+  width: 25%;
+  margin-left: 0;
+}
+
 .btn:hover {
   background-color: #010e66;
 }
